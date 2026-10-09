@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix VNMENTORS - Hệ Thống Quản Lý Kinh Doanh \u0026 Đào Tạo Khóa Học",
+  "description": "Hệ thống quản lý kinh doanh (CRM, tư vấn, thu học phí, doanh thu chi nhánh) và quản lý đào tạo (thời khóa biểu, điểm danh, điểm thi, chứng chỉ) tại Công ty CP Công nghệ Giáo dục VNMENTORS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
